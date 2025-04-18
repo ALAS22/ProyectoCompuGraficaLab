@@ -2,7 +2,7 @@
 /* ----------------   Práctica  --------------------------*/
 /*-----------------    2025-2   ---------------------------*/
 /*------------- Alumno:Domínguez Palacios  ds            ---------------*/
-/*------------- No. Cuenta              actualización 3 ---------------*/
+/*------------- No. Cuenta              actualización 5 ---------------*/
 //PRUEBA EXITOSA
 
 #include <Windows.h>
